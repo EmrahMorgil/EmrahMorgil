@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Emrah</h1>
+<h3 align="center">I am Emrah, I graduated from Akdeniz University, Department of Management Information Systems. I developed projects using Html, Css, Javascript, Typescript, React, Redux, Nodejs, Express and .Net Web Api.</h3>
+
+- 🔭 I’m currently working on **San Tourism Software Group**
+
+- 🌱 I’m currently learning **.Net Core Web Api**
+
+- 👨‍💻 All of my projects are available at [https://github.com/EmrahMorgil?tab=repositories](https://github.com/EmrahMorgil?tab=repositories)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **morgilemrah@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emrahmorgil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emrahmorgil/" height="30" width="40" /></a>
