@@ -1,4 +1,5 @@
-<h3 align="center">I am Emrah, I graduated from Akdeniz University, Department of Management Information Systems. I developed projects using Html, Css, Javascript, Typescript, React, Redux, Nodejs, Express and .Net Web Api.</h3>
+<h1 align="center">Hi there 👋 I'm Emrah</h1>
+<h3 align="center">I graduated from Akdeniz University, Department of Management Information Systems. I developed projects using Html, Css, Javascript, Typescript, React, Redux, Nodejs, Express and .Net Web Api.</h3>
 
 - 🔭 I’m currently working on **San Tourism Software Group**
 
