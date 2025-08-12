@@ -1,15 +1,13 @@
 My Portfolio: [https://emrahmorgil.com]
 
 <h1 align="center">Hi there 👋 I'm Emrah</h1>
-<h3 align="center">I graduated from Akdeniz University, Department of Management Information Systems. I developed projects using Html, Css, Javascript, Typescript, React, Redux, Nodejs, Express and .Net Web Api.</h3>
+<h3 align="center">I graduated from Akdeniz University, Department of Management Information Systems. I developed projects using Html, Css, Jquery, React, .Net MVC and .Net Web Api.</h3>
 
-- 🔭 I’m currently working on **San Tourism Software Group**
+- 🔭 I’m currently working on **CRM Akademi**
 
-- 🌱 I’m currently learning **.Net Core Web Api**
+- 🌱 I’m currently learning **Dynamic 365**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmrahMorgil?tab=repositories](https://github.com/EmrahMorgil?tab=repositories)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **morgilemrah@gmail.com**
 
